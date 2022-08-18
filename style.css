@@ -1,0 +1,51 @@
+
+
+body {
+  background: #7cc8e6;
+  
+}
+
+.titulo{
+  text-align: center;
+  background: #88daa0;
+}
+
+.main {
+  display: flex;
+  padding: 10px;
+  margin: 0 10px 0 10px;
+  box-shadow: 2px 2px 2px 1px;
+  background-color: rgb(245, 150, 150);
+  border-radius: 20px;
+     
+}
+
+.btn{
+  padding: 10px;
+  margin: 0 10px 0 10px;
+  box-shadow: 2px 2px 2px 1px;
+  background-color: rgb(172, 242, 252);
+  border-radius: 10px;
+}
+
+.formBox {
+  
+  padding: 10px;
+  margin: 0 10px 0 10px;
+  box-shadow: 2px 2px 2px 1px;
+  background-color: white;
+  border-radius: 20px;
+}
+.msgBox {
+  
+  padding: 10px;
+  margin: 0 10px 0 10px;
+  box-shadow: 2px 2px 2px 1px;
+  background-color: white;
+  border-radius: 20px;
+}
+
+.footer{
+  text-align: center;
+  background: #88daa0;
+}
